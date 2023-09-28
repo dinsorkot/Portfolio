@@ -4,7 +4,7 @@ import exp from './experience.vue'
 
 import { ref, onBeforeUnmount, onMounted, computed } from "vue";
 
-let fade_hello = ref();
+let fade_hello = ref(0);
 let isActive = computed(() => fade_hello.value === 0);
 
 function logScroll() {
