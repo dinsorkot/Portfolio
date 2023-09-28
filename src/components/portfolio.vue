@@ -98,10 +98,9 @@ onBeforeUnmount(() => {
             <a>tel 095-658-5160</a>
         </div>
         <div class="box-contact">
-            <a>INSTAGRAM</a><br />
-            <a>DISCORD</a><br />
-            <a>FACEBOOK</a><br />
-            <a>SK.dinsorkot@gmail.com</a>
+            <a class=" text-decoration-none text-dark" href="https://www.instagram.com/_dinsorkot_/">INSTAGRAM</a><br />
+            <a class=" text-decoration-none text-dark" href="https://www.facebook.com/hotmailoom.kasemsuk">FACEBOOK</a><br />
+            <a class=" text-decoration-none text-dark" >SK.dinsorkot@gmail.com</a>
         </div>
 
     </div>
