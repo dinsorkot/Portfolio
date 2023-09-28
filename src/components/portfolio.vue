@@ -27,13 +27,13 @@ onBeforeUnmount(() => {
 
 </script>
 <template>
-    <div class="ptf d-flex">
+    <div class="ptf d-flex" id="portfolio">
         <div
           class="box pe-2"
           :class="{ fadeInUp: isActive }"
           :style="{ animationDelay: isActive ? '1s' : '0s' }"
         >
-          Hello
+          Hello.
         </div>
         <br />
         <div :class="{ fadeInUp: isActive }" :style="{ animationDelay: isActive ? '2s' : '0s' }">
@@ -114,7 +114,7 @@ onBeforeUnmount(() => {
   100%{transform:translate(0px, 0); opacity: 1;}
 }
 .ptf {
-    height: 90vh;
+    height: 100vh;
     font-size: 30px;
     font-weight: 600;
     justify-content: center;
