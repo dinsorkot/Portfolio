@@ -449,7 +449,7 @@ onBeforeUnmount(() => {
     }
 
     .exp {
-        height: 80vh;
+        height: 60vh;
     }
 
     .exp .detail {

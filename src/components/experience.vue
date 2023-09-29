@@ -41,6 +41,7 @@
 <style scoped>
 .exps {
     width: 280px;
+    overflow: hidden;
 }
 
 .exps img {
@@ -49,7 +50,7 @@
 
 @media (min-width: 568px) {
     .exps {
-        width: 100vh;
+        width: 70vh;
     }
     
     .exps img {
