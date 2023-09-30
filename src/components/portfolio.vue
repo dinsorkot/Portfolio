@@ -69,11 +69,11 @@ onBeforeUnmount(() => {
                     <div class="sub-ball"></div>
                 </div>
                 <div class="high-school">
-                    <div class="years">2013 - 2020</div>
+                    <div class="years">2015 - 2021</div>
                     <div class="place-gpa">Watcharawittaya School<br />GPA : 3.13</div>
                 </div>
                 <div class="university">
-                    <div class="years">2020 - 2023</div>
+                    <div class="years">2021 - Now</div>
                     <div class="place-gpa">Maejo University<br />GPA : 3.36</div>
                 </div>
             </div>
