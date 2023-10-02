@@ -25,7 +25,7 @@
               <li><a class="dropdown-item"
                   href="https://dinsorkot.github.io/corporate-ui-dashboard-main/pages/dashboard.html">DashBoard
                   Project</a></li>
-              <li><a class="dropdown-item" href="dinsorkot.github.io/HTML01">WebProfile Project</a></li>
+              <li><a class="dropdown-item" href="https://dinsorkot.github.io/HTML01">WebProfile Project</a></li>
             </ul>
           </li>
           <li class="nav-item">
